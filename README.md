@@ -20,12 +20,12 @@ about the tool :
 install in kali linux :
 <!--START_SECTION:waka-->
 ```
-sudo git clone https://github.com/vv1ck/report-snapchat
+sudo git clone https://github.com/vv1ck/FBI-Look
 ```
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-->
 ```
-cd report-snapchat
+cd FBI-Look
 ```
 <!--END_SECTION:waka-->
 - install libraries :
