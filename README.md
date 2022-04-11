@@ -1,6 +1,6 @@
 # FBI-Look
 FBI Hack
-<img src="/FBI.png"></img>
+<img src="/FPI.png"></img>
 Collecting information about sites and users
 ---------------------
 about the tool :
