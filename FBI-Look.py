@@ -560,7 +560,7 @@ if __name__ == '__main__':
 	██─▄████─▄─▀██─██████████─██▀█─██─█─██─██─▄▀██
 	▀▄▄▄▀▀▀▄▄▄▄▀▀▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▄▀█▄▀▄▄▀
             
-			{yel}By Mr.Joker @221298
+			{yel}By Mr.Joker | TELEGRAM: @vv0ck
 		webSite: https://vv1ck.github.io{wit}
 
 """)
@@ -575,7 +575,7 @@ ____________ _____    _             _
 | |   | |_/ /_| |_   | | (_) | (_) |   < 
 \_|   \____/ \___/   |_|\___/ \___/|_|\_\\
 
-            By Mr.JOKER @221289
+            By Mr.JOKER | TELEGRAM: @vv0ck
           https://vv1ck.github.io
 """)
 		Settings()
